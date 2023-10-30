@@ -101,3 +101,16 @@
 // how to creaate a dll in c++ which targets x86 platform using visual studio code
 // how to configure visual studio code to create a dll in c++ which targets x86 platform 
 // cmake -S 05 -B 05\build -A win32
+/*
+    VCRUNTIME140D.dll
+    ucrtbased.dll
+    KERNEL32.dll
+
+	"workstation id=mcsdexnacato.mssql.somee.com;
+	packet size=4096;
+	user id=aperezNWO_SQLLogin_1;
+	pwd=nnsh89yjyc;
+	data source=mcsdexnacato.mssql.somee.com
+	;persist security info=False
+	;initial catalog=mcsdexnacato",
+*/
