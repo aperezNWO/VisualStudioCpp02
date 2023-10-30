@@ -1,9 +1,9 @@
 # CMake generation dependency list for this directory.
-C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/CMakeLists.txt
-C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/CMakeFiles/3.28.0-rc3/CMakeCCompiler.cmake
-C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/CMakeFiles/3.28.0-rc3/CMakeCXXCompiler.cmake
-C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/CMakeFiles/3.28.0-rc3/CMakeRCCompiler.cmake
-C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/CMakeFiles/3.28.0-rc3/CMakeSystem.cmake
+C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/VisualStudioCpp02/CMakeLists.txt
+C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/VisualStudioCpp02/build/CMakeFiles/3.28.0-rc3/CMakeCCompiler.cmake
+C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/VisualStudioCpp02/build/CMakeFiles/3.28.0-rc3/CMakeCXXCompiler.cmake
+C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/VisualStudioCpp02/build/CMakeFiles/3.28.0-rc3/CMakeRCCompiler.cmake
+C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/VisualStudioCpp02/build/CMakeFiles/3.28.0-rc3/CMakeSystem.cmake
 C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCCompiler.cmake.in
 C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCCompilerABI.c
 C:/Program Files/CMake/share/cmake-3.28/Modules/CMakeCInformation.cmake

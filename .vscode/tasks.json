@@ -9,8 +9,8 @@
                      "${workspaceFolder}/build",
                      "-S",
                      "${workspaceFolder}",
-                     "-A",
-                     "win32"],
+                    "-A",
+                    "Win32"],
             "group": {
                 "kind": "build",
                 "isDefault": true

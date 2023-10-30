@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\build\Debug\ZERO_CHECK</FullPath>
+      <FullPath>C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\VisualStudioCpp02\build\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\build\Debug\Algorithm.dll</FullPath>
+      <FullPath>C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\VisualStudioCpp02\build\Debug\Algorithm.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

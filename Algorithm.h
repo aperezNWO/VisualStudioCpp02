@@ -22,6 +22,7 @@
 		   char*   Dijkstra(char* input);
    };
 
+   extern "C" __declspec(dllexport) char* Run(int numberOne, int numberTwo, char* return_value_c);
 
 
 

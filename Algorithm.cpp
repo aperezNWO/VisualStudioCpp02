@@ -61,10 +61,8 @@
 	{
 		  int file_status  = OpenFile();
 		  *file_status_c   = (file_status + '0');
-		  char* return_value;
-
+		  char* return_value = (char*)"OK";
 		  return return_value;
-
 	}
 	//
 	char* Algorithm::sum_str(int numberOne, int numberTwo, char* return_value_c)
@@ -77,7 +75,7 @@
 		char* getRbtData = new char[128];
 		memset(getRbtData, 0, strlen(getRbtData));
 		char* _getRbtData = (char*)malloc(sizeof(char));
-		sprintf(_getRbtData,"%i = %i + %i",result, numberOne, numberTwo);
+		sprintf_s(_getRbtData,128,"%i = %i + %i",result, numberOne, numberTwo);
 		memcpy(getRbtData, _getRbtData, strlen(_getRbtData));
 
 		return getRbtData;
@@ -93,7 +91,7 @@
 		return output;
 	};
 	//
-	extern "C" __declspec(dllexport) char* Run(int numberOne, int numberTwo, char* return_value_c)
+	char* Run(int numberOne, int numberTwo, char* return_value_c)
 	{
 		Algorithm algorithm;
 

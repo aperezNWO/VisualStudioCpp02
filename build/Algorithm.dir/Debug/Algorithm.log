@@ -1,7 +1,5 @@
-﻿  Building Custom Rule C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/CMakeLists.txt
+﻿  Building Custom Rule C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/VisualStudioCpp02/CMakeLists.txt
   Algorithm.cpp
-C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\Algorithm.cpp(8,9): warning C4068: pragma "argsused" desconocida
-C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\Algorithm.cpp(80,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\Algorithm.cpp(66): warning C4700: se utilizó la variable local 'return_value' sin inicializar
-     Creando biblioteca C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/Debug/Algorithm.lib y objeto C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/Debug/Algorithm.exp
-  Algorithm.vcxproj -> C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\build\Debug\Algorithm.dll
+C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\VisualStudioCpp02\Algorithm.cpp(8,9): warning C4068: pragma "argsused" desconocida
+     Creando biblioteca C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/VisualStudioCpp02/build/Debug/Algorithm.lib y objeto C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/VisualStudioCpp02/build/Debug/Algorithm.exp
+  Algorithm.vcxproj -> C:\OneDrive\_root\Personal\dev\CppVisualStudioCode\05\VisualStudioCpp02\build\Debug\Algorithm.dll
