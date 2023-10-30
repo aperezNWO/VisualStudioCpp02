@@ -1,0 +1,10 @@
+^C:\ONEDRIVE\_ROOT\PERSONAL\DEV\CPPVISUALSTUDIOCODE\05\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05 -BC:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build --check-stamp-file C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

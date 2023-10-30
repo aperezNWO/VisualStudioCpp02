@@ -1,0 +1,3 @@
+C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/CMakeFiles/Algorithm.dir
+C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/CMakeFiles/ALL_BUILD.dir
+C:/OneDrive/_root/Personal/dev/CppVisualStudioCode/05/build/CMakeFiles/ZERO_CHECK.dir
